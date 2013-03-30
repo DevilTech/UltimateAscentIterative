@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-//CHANGE NUMBERS SO THAT THE PORTS ARE CORRECT
+//CHANGE NUMBERS SO THAT THE PORTS ARE CORRECT, no change for climbing logic yet, add second motor CODY
 package edu.wpi.first.wpilibj.templates;
 
 
